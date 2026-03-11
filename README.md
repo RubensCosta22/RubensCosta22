@@ -1,9 +1,6 @@
 Olá, sou Rubens Henrique 👋
 Desenvolvedor | Engenharia de Dados | IA
 Estudante de Ciências da Computação · Fundador da RHCTECH
-![LinkedIn](https://img.shields.io/badge/LinkedIn-rubens--hcosta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-rhc.techbr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Website](https://img.shields.io/badge/Website-rhctech.com.br-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)
 ---
 🧠 Sobre mim
 Sou um profissional em transição de carreira para tecnologia, com background sólido como analista administrativo — o que me deu habilidades fortes em organização, análise de dados, automação de processos e resolução de problemas.
@@ -47,6 +44,6 @@ App desktop Java que anima GIFs quicando nas bordas da tela. Projeto de aprendiz
 ---
 📫 Contato
 Estou aberto a oportunidades, colaborações e troca de experiências!
-💼 LinkedIn: linkedin.com/in/rubens-hcosta
-📧 Email: rhc.techbr@gmail.com
-🌐 Website: rhctech.com.br
+![LinkedIn](https://img.shields.io/badge/LinkedIn-rubens--hcosta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-rhc.techbr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Website](https://img.shields.io/badge/Website-rhctech.com.br-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)

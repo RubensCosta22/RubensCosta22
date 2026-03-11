@@ -2,7 +2,7 @@
 
 ### Data Engineer em Formação | Automação e IA Aplicada
 
-Sou um profissional em transição de carreira para a tecnologia, unindo **7 anos de experiência em análise administrativa** com a graduação em **Ciência da Computação**. Meu foco é construir pontes entre dados brutos e decisões inteligentes, utilizando Engenharia de Dados e Inteligência Artificial.
+Sou um profissional em transição de carreira para a tecnologia, unindo **7 anos de experiência em análise administrativa** cursando **Ciência da Computação**. Meu foco é construir pontes entre dados brutos e decisões inteligentes, utilizando Engenharia de Dados e Inteligência Artificial.
 
 ---
 

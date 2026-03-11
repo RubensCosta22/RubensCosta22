@@ -2,7 +2,7 @@
 
 ### Data Engineer em Formação | Automação e IA Aplicada
 
-Sou um profissional em transição de carreira para a tecnologia, unindo **7 anos de experiência em análise administrativa** cursando **Ciência da Computação**. Meu foco é construir pontes entre dados brutos e decisões inteligentes, utilizando Engenharia de Dados e Inteligência Artificial.
+Unindo uma trajetória sólida em análise administrativa e financeira à Engenharia de Dados e IA. Com experiência real em budgeting, forecasting e gestão de KPIs no setor logístico, hoje foco em construir a infraestrutura técnica que sustenta essas análises. Desenvolvo pipelines de dados, automações em Python e integrações com APIs de Inteligência Artificial para converter dados brutos em inteligência estratégica de alto impacto.
 
 ---
 

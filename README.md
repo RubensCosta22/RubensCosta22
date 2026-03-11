@@ -44,6 +44,6 @@ App desktop Java que anima GIFs quicando nas bordas da tela. Projeto de aprendiz
 ---
 📫 Contato
 Estou aberto a oportunidades, colaborações e troca de experiências!
-![LinkedIn](https://img.shields.io/badge/LinkedIn-rubens--hcosta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-rhc.techbr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Website](https://img.shields.io/badge/Website-rhctech.com.br-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rubens--hcosta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-hcosta/)
+[![Email](https://img.shields.io/badge/Email-rhc.techbr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhc.techbr@gmail.com)
+[![Website](https://img.shields.io/badge/Website-rhctech.com.br-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](http://rhctech.com.br)

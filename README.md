@@ -39,11 +39,15 @@ App desktop Java que anima GIFs quicando nas bordas da tela. Projeto de aprendiz
 `Java` `Swing` `AWT` `Desktop GUI`
 ---
 📊 Estatísticas GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=RubensCosta22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RubensCosta22&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=RubensCosta22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensCosta22&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" /></td>
+</tr></table>
 ---
 📫 Contato
 Estou aberto a oportunidades, colaborações e troca de experiências!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rubens--hcosta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-hcosta/)
+<br>
 [![Email](https://img.shields.io/badge/Email-rhc.techbr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhc.techbr@gmail.com)
+<br>
 [![Website](https://img.shields.io/badge/Website-rhctech.com.br-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](http://rhctech.com.br)

@@ -25,26 +25,48 @@ Unindo uma trajetória sólida em análise administrativa e financeira à Engenh
 
 ---
 
-### 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-#### 🔍 [Inspecto-Web]
-**PWA de Auditorias 5S com Análise por IA**
-- Solução real para o setor industrial/logístico.
-- Utiliza **Gemini API** para analisar fotos de auditoria e gerar relatórios automáticos.
-- Tech: React 19, Vite, Tailwind v4, PWA (Offline functionality).
+### 📈 Dashboard de Performance Operacional
 
-#### 📊 [Data-Pipeline-Project
-**Pipeline de Automação de Dados Administrativos**
-- Extração de dados via API e carregamento em banco de dados SQL.
-- Demonstração de habilidades em limpeza de dados e automação que aprendi na área adm.
+![Dashboard Operacional](Dashboard.png)
+
+**Monitoramento Operacional em Tempo Real**
+
+Sistema web desenvolvido em Python e Flask para gestão de turnos, descargas operacionais, controle de paradas e acompanhamento de indicadores de produtividade.
+
+#### Principais resultados
+
+* Redução da atualização dos indicadores diários de **3 horas para tempo real**.
+* Redução da atualização dos indicadores mensais de **24 horas para tempo real**.
+* Consolidação automática de dados operacionais.
+* Dashboard executivo com KPIs e indicadores de desempenho.
+* Deploy em ambiente cloud utilizando Render.
+
+**Tecnologias:** Python, Flask, OpenPyXL, JavaScript, HTML, CSS, Git e Render.
+
+**Destaques Técnicos:**
+
+* Desenvolvimento de APIs REST.
+* Processamento e consolidação de dados.
+* Integração com Excel como camada de persistência.
+* Dashboard operacional responsivo.
+* Automação de indicadores de produtividade.
 
 ---
 
-### 📊 Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RubensCosta22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensCosta22&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="150" />
-</p>
+### 🔍 Inspecto-Web
+
+**Auditorias Industriais com Inteligência Artificial**
+
+Plataforma PWA para auditorias 5S com análise automatizada de imagens utilizando modelos de IA Generativa.
+
+* Análise automática de fotos.
+* Geração de relatórios inteligentes.
+* Funcionamento offline (PWA).
+* Aplicação voltada para ambientes industriais e logísticos.
+
+**Tecnologias:** React 19, Vite, Tailwind CSS, Gemini API, PWA.
 
 ---
 

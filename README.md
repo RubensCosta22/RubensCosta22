@@ -27,13 +27,13 @@ Unindo uma trajetória sólida em análise administrativa e financeira à Engenh
 
 ### 🚀 Projetos em Destaque
 
-#### 🔍 [Inspecto-Web](link-do-repo)
+#### 🔍 [Inspecto-Web]
 **PWA de Auditorias 5S com Análise por IA**
 - Solução real para o setor industrial/logístico.
 - Utiliza **Gemini API** para analisar fotos de auditoria e gerar relatórios automáticos.
 - Tech: React 19, Vite, Tailwind v4, PWA (Offline functionality).
 
-#### 📊 [Data-Pipeline-Project (Sugestão de nome)](link-do-repo)
+#### 📊 [Data-Pipeline-Project
 **Pipeline de Automação de Dados Administrativos**
 - Extração de dados via API e carregamento em banco de dados SQL.
 - Demonstração de habilidades em limpeza de dados e automação que aprendi na área adm.
